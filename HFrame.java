@@ -1,5 +1,5 @@
 //Ryan Murphy
-//CM341
+
 //HashProgram
 //md5 sha1 sha256
 
